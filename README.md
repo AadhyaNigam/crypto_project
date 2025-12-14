@@ -66,5 +66,6 @@ Data is fetched from the **CoinGecko API**, including:
 git clone https://github.com/YOUR_USERNAME/crypto_project.git
 cd crypto_project
 ```
-### Author
+
+### ✍️ Author
 👨‍💻 Developed by [Aadhya Nigam](https://github.com/AadhyaNigam)
