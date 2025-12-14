@@ -1,4 +1,4 @@
-# Crypto Data Acquisition & Dashboard Project
+# Crypto Volatility and Risk Analyser
 
 ## 📌 Project Overview
 This project is a real-time cryptocurrency data acquisition and visualization system.
